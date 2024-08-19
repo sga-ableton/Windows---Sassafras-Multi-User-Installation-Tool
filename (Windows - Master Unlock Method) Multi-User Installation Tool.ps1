@@ -4,10 +4,11 @@
 
 .NOTES  
     Author     : Sean Galloway
-    Version    : 1.1 
+    Version    : 1.1.1 
 
 v1.1. Updates and refines 'Master Unlock Method' multi-user installation tool for Live 12, including version references, refers to C:\Users
 rather than "HOMEDRIVE" variable". Removes deprecated Options.txt entries for shared Database and Cache. 
+
 v1.1.1 Updated for Live 12.0.10 Unlock.json format.
 
 #> 
